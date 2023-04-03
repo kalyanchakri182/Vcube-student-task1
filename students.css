@@ -1,0 +1,93 @@
+li{
+display: inline-block;
+list-style-type :none;
+margin: 10px;
+color: black;
+padding-left: 30px;
+
+}
+
+h3{
+display: inline-block;
+font-size:25px;
+color: black;
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+ul{
+background-color: skyblue;
+border-radius: 10px;
+}
+
+
+
+.card{
+display: flex;
+}
+
+.trainer{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+.batch{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+.ins{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+img{
+height:50%;
+width:99.5%;
+border: 1px solid skyblue;
+}
+
+h4 {
+padding-left: 10px;
+}
+
+p {
+padding-left: 10px;
+}
+
+button{
+display: inline-block;
+margin-left: 180px;
+background-color: white;
+border: 1px solid skyblue;
+border-radius: 10px;
+
+}
+
+.train{
+display: flex;
+width :300px;
+background-color: skyblue;
+}
+h2{
+text-align: center;
+color: black;
+}
+
+.add{
+text-align: right;
+}
+
+button{
+margin-right: 20px;
+border: 5px solid skyblue;
+}

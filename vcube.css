@@ -1,0 +1,84 @@
+li{
+display: inline-block;
+list-style-type :none;
+margin: 10px;
+color: black;
+padding-left: 30px;
+
+}
+
+h3{
+display: inline-block;
+font-size:25px;
+color: black;
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+ul{
+background-color: skyblue;
+border-radius: 10px;
+}
+
+a:active, a:hover{
+background-color: blue;
+}
+
+.active{
+
+}
+.card{
+display: flex;
+
+}
+
+.trainer{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+.batch{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+.ins{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+
+img{
+width:100%;
+}
+
+h1 {
+text-align: center;
+color:black;
+}
+button{
+display: inline-block;
+margin-left: 180px;
+background-color: white;
+border: 1px solid skyblue;
+border-radius: 10px;
+
+}
+
+.train{
+display: flex;
+width :300px;
+background-color: skyblue;
+}
+h2{
+text-align: center;
+color: black;
+}
