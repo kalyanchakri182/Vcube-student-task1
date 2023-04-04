@@ -1,0 +1,52 @@
+li{
+display: inline-block;
+list-style-type :none;
+margin: 10px;
+color: black;
+padding-left: 30px;
+
+}
+
+h3{
+display: inline-block;
+font-size:25px;
+color: black;
+}
+
+a{
+text-decoration: none;
+color: black;
+}
+
+ul{
+background-color: skyblue;
+border-radius: 10px;
+}
+
+.card{
+display: flex;
+}
+
+.front-end{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+.powerbi{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+.sql{
+border: 2px solid white;
+background-color:skyblue;
+width:100%;
+border-radius: 10px;
+}
+img{
+width:98%;
+height:65%;
+margin: 6px;
+}
