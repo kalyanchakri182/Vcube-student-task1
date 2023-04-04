@@ -1,0 +1,59 @@
+
+.column{
+display:inline-block;
+background-color:white;
+
+width: 25%;
+border: 5px solid azure;
+border-radius: 20px;
+}
+.column1{
+display:inline-block;
+background-color:white;
+
+width: 25%;
+border: 5px solid azure;
+border-radius: 20px;
+}
+
+body{
+background: azure;
+text-align: center;
+}
+
+button{
+background-color: white;
+width: 200px;
+height: 25px;
+border: 1px  solid silver;
+border-radius: 7px;
+}
+
+img{
+width : 15px;
+height: 15px;
+margin-right: 10px;
+}
+
+.email{
+background-color:black;
+color : white;
+
+}
+p{
+font-size:10px;
+color: silver;
+font-weight: bold;
+}
+a{
+text-decoration: none;
+}
+input{
+width:55%;
+border: 2px solid silver;
+border-radius:5px;
+}
+input.hover{
+border: 2px solid blue;
+}
+
